@@ -1,0 +1,12 @@
+body {
+	background-image: url("https://img.freepik.com/vecteurs-libre/fond-ciel-pastel-degrade_23-2148938062.jpg?w=1380&t=st=1708092482~exp=1708093082~hmac=bbfc200e202f86e6e4a53ad061af71e8b3e086e195c3970b2a71b8fb51b28a92");
+	background-size: cover;
+}
+.myContainer {
+	background-color: rgba(250, 250, 250, 0.666);
+	border-radius: 25%;
+	padding: 30px;
+	align-items: center;
+	text-align: center;
+	align-self: center;
+}
